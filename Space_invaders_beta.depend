@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1635379357 source:c:\users\ivanc\onedrive\escritorio\c\space_invaders_beta\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<list>
+
